@@ -24,10 +24,10 @@ Learn to discover open ports on devices in your local network to understand netw
 ## Installing Nmap
 - **Visit the official website [Nmap](https://nmap.org/download) and download the appropriate version for OS**
 - **In my case (on macOS):**
-- brew update
-- brew install nmap
+    - brew update
+    - brew install nmap
 - **Verifing the installation:**
-- nmap --version
+    - nmap --version
 
 ![Alt Text](images/nmap.PNG)
 
