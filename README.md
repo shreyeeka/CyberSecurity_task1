@@ -31,4 +31,8 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ![Alt Text](images/nmap.PNG)
 
+---
 
+## Finding my local IP range
+![Alt Text](images/localIP.PNG)
+![Alt Text](images/local.PNG)
