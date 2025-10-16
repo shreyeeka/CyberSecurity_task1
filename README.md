@@ -7,8 +7,6 @@ Learn to discover open ports on devices in your local network to understand netw
 - **Nmap** (free)
 - **Wireshark** (optional, free)
 
----
-
 ## Guide
 1. Install Nmap from official website
 2. Find your local IP range (e.g., 192.168.1.0/24)
@@ -36,3 +34,11 @@ Learn to discover open ports on devices in your local network to understand netw
 ## Finding my local IP range
 ![Alt Text](images/localIP.PNG)
 ![Alt Text](images/local.PNG)
+
+- **My IP address: 192.168.1.8**
+- **Subnet mask: 0xffffff00(255.255.255.0)**
+- **Network range: 192.168.1.0/24**
+
+---
+
+## Using nmap to perform TCP SYN scan
